@@ -1,5 +1,9 @@
-New file in feature branch.
+this line was replaced
 
 
 
 This file was modified.
+
+
+
+again modified in feature 2
